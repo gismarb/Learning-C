@@ -10,9 +10,8 @@ Da mesma forma, auxiliaram na introdução à POO (Programação Orientada à Ob
 
 A Estrutura deste Repositório é bem simples: existem 2 pastas (Exercicios_C, Exercicios_C++), e em cada uma delas existirá uma Listagem de Exercícios, e seus repectivos códigos (*.c ou *.cpp)
 
-[Exercícios usando Linguagem C](./Learning-C/Exercicios_C)
+[Exercícios usando Linguagem C](https://github.com/gismarb/Learning-C/tree/master/Exercicios_C)
 
-[Exercícios usando Linguagem C++](./Learning-C/Exercicios_C++)
+[Exercícios usando Linguagem C++](https://github.com/gismarb/Learning-C/tree/master/Exercicios_C%2B%2B)
 
 Seguindo o que já foi escrito aqui, este repositório tem como finalidade, auxílio didático aos iniciantes na área de programação de computadores.
-
