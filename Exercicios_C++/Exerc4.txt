@@ -1,0 +1,7 @@
+RESPOSTA 4 - Quanto a questão das principais características: podemos dizer que com a POO, temos uma nova forma de trabalha (codificar).
+Neste momento, podemos abstrair a forma de solucionar um problema (entendendo problema, como a aquilo que gerou a demanda 
+por uma solução, o programa). E da mesma forma que abstraimos, repassamos para o código a solução.
+Com POO, trabalhamos com, Classes, Objetos, Heranças, Encapsulamento, funções membros, etc; para que possamos atuar em vários
+escopos, fazendo assim, uma codificação mais legível, organizada, reutilizavel, com escopos separados e para cada necessidade.
+
+Completando os campos: PARADIGMA / ENCAPSULAMENTO / MEMBROS (engloba atributos, métodos, etc) / PUBLIC

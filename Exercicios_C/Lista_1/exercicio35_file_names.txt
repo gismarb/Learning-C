@@ -1,0 +1,103 @@
+Ana
+Ana Paula
+Bruno
+Bueno Brandão
+Carlos Lomba
+Cinara
+Carlão
+Carlinhos
+Daniela
+Daniele
+Daniely
+Daivison
+Dona Maria
+Fabio
+Frederico
+Frederich Frauss
+Gustavsons
+Gilson
+Gisele
+Gina
+Gisele Júlia
+Hugo
+Humberto Modrich
+Isaías
+Isaac
+Igor Rumble
+Junior
+Juninho
+Maria Helena Silva
+Naiara
+Nilo
+Olavo de Rush
+Plínio
+Quenia
+Rosa
+Rosana
+Rose
+Sumara
+Silvia
+Tales
+Talles
+Uranich
+Ulsion
+Vinicius
+Vundle
+Xaves
+Xico
+Zen
+Zico
+Washington
+Linderberg
+Inderson
+Júlio
+Gideão
+César
+Osŕoio
+Cézar
+Lopes
+Zimmer
+Schunk
+Felipe
+Xarcaves
+Isadora
+Ingrid
+Nícolas
+Ednilson
+Edenilson
+Silveira
+Silas
+Sillas
+Gilberto
+Hingride
+Nazaré
+Peter
+Luna
+Márcio
+Mello
+Cristian
+Monique
+Léo
+Leonador
+Letácio
+Lupe
+Margarida
+Mané
+Silmaria
+Tito Ortiz
+Anderson Silveira
+Rildo
+Rino
+Marsha
+Urecles
+Mano Brown
+Carlos Roberto
+Uilson
+Nilopes
+Moraes Dinol
+Lisboa Filho
+Lisboa Neto
+Aristoteles
+-----------------------------------------------------------------------------
+Programa lerá apenas 100 nomes ou seja, até o último nome aqui acima.
+Para testar o programa (exercicio35.c) , voce poderá mudar valores acima.

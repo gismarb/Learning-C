@@ -1,0 +1,8 @@
+Durante o semestre, iniciamos o apreendizado de um novo paradgma de programação: POO, Programação Orientada a Objetos.
+Neste ponto, iniciamos os estudos com os conceitos, sobretudo entender sobre abstração, ou seja, focamos em primeiro
+entender este conceito, para depois imergir a dentro dos demais. Logo, podendo entender como fazer abstração do problema
+para transformar a solução em código, e já entendndo o que são atributos, métodos, funções membros, etc, inciamos com os
+exemplo em código, sempre usando a liguagem C++. Aprendemos a crias as Class, instanciá-las em objetos, criar concetitos
+de herança, sobrecarga e soobrescrita de métodos, encapsulamento de dados, separar dados de código, usar includes, como 
+interfaces de acesso ao membros da Classe, etc. Sendo possível, agora, entender as diferenças do paradgma estrutural em
+relação ao orientado à objetos.

@@ -1,0 +1,16 @@
+
+
+	Registro(s) Encontrado(s):
+
+	ID.: 1
+	Nome: Jiraya
+	Endereco: Rua Okuma, 30, Japao
+	Telefone: 11112222
+	CEP: 321123
+
+	ID.: 2
+	Nome: Jiban
+	Endereco: Nasharuma, 5034-A, Korea
+	Telefone: 99999999
+	CEP: 4561233
+
