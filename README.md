@@ -8,7 +8,7 @@ Tais exercícios me auxiliaram na apreendizado de Progrmação, colocando em pr�
 
 Da mesma forma, auxiliaram na introdução à POO (Programação Orientada à Objetos), neste caso específico, fazendo uso da Linguagem C++.
 
-A Estrutura deste Repositório é bem simples: existem 2 pastas (Exercicios_C, Exercicios_C++), e em cada uma delas existirá uma Listagem de Exercícios, e seus repectivos códigos (*.c ou *.cpp)
+A Estrutura deste Repositório é bem simples: existem 2 pastas (Exercicios_C, Exercicios_C++), e em cada uma delas existirá uma Listagem de Exercícios, e seus repectivos códigos (*.c ou *.cpp).
 
 [Exercícios usando Linguagem C](https://github.com/gismarb/Learning-C/tree/master/Exercicios_C)
 
